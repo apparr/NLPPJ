@@ -24,7 +24,7 @@ Key parameters:
 - `--n_layers`: Number of encoder/decoder layers
 - `--norm_type`: Normalization type (layernorm or rmsnorm)
 you can edit it in the train.py files top.
-
+```
 #### Train RNN Model
 
 ```
@@ -37,6 +37,7 @@ Key parameters:
 - `--teacher_forcing`: Teacher forcing ratio
 - `--decoding_type`: Greedy or beam-search decoding strategies
 you can edit it in the train.py files top.
+```
 
 - ### 4. Model Inference
 
