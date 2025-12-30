@@ -25,11 +25,10 @@ Key parameters:
 - `--norm_type`: Normalization type (layernorm or rmsnorm)
 you can edit it in the train.py files top.
 
-- #### Train RNN Model
+#### Train RNN Model
 
 ```
 python train_rnn.py 
-```
 
 Key parameters:
 - `--rnn_type`: RNN type (gru or lstm)
